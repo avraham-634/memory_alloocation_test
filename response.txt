@@ -1,0 +1,14 @@
+1. Describe the difference between an `Array` and a `LinkedList`.
+
+-Array:
+    *save this elems into a continus memory locaion
+    *faster to access to an element by index
+    *fixed size - hard to add/remove elems
+    *memory use at compile time
+
+-LinkedList
+    *save this elems into a NOT continus memory locaion
+    *slower to access to an element by 'next' pointers
+    *not fixed size - easy to add/remove elems
+    *memory use at run time
+    *use more memory because 'val' and 'next' fields
